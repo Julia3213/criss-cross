@@ -1,0 +1,2 @@
+C:\Users\korsa\source\repos\criss_cross\Debug\criss_cross.exe
+C:\Users\korsa\source\repos\criss_cross\Debug\criss_cross.pdb

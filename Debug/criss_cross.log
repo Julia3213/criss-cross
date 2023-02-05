@@ -1,0 +1,19 @@
+﻿  Field.cpp
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(41,15): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(41,11): warning C4309: инициализация: усечение константного значения
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(65,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(67,23): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(72,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(81,48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(294,22): warning C4244: аргумент: преобразование "float" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(313,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\korsa\source\repos\criss_cross\Field.cpp(366,16): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\korsa\source\repos\criss_cross\Back_tracking.h(7,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  criss_cross.vcxproj -> C:\Users\korsa\source\repos\criss_cross\Debug\criss_cross.exe
